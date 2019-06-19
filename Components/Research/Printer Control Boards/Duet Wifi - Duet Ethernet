@@ -1,0 +1,35 @@
+Facts:
+ - Duet Wifi:
+      Extruders: 2 (up to 9 with DueX5 expansion Board)
+      Fans: 3 (up to 9 with DueX5 expansion Board
+      Heaters: 3 (up to 8 with DueX5 expansion Board)
+      Endstops: 5 (12 with DueX5 Expansion Board)
+      Temp Sensers: 3 (8 with DueX5 expansion Board) Also up to 8 Digital PT100/Thermocouple inputs on Daughterboards
+      Ethernet: No
+      Wifi: Yes
+      CPU: 32-bit ARM SAM4E8E With Hardware Floating Point
+      CPU SPeed (MHZ): 120
+      Stepper Driver: Trinamic TMC2660 Stepper drivers, up to 2.8A, up to x256 microstepping digital current control
+      ISP: USB, SD Card, Web
+      Link: https://www.duet3d.com/DuetWifi
+      Link to matter hackers: https://www.matterhackers.com/store/l/duet3d-duet-2-wifi-3d-printer-controller-board/sk/M3CWNU4L?gclid=CjwKCAjwuqfoBRAEEiwAZErCsti8vo_a_iVJTTuSCI0Z0Z505atEYDYOiQYVbS0fiF4cMBjZbVDrOxoC_0UQAvD_BwE
+      Price: $169.99
+ 
+ - Duet Ethernet:
+      Extruders: 2 (up to 9 with DueX5 expansion Board)
+      Fans: 3 (up to 9 with DueX5 expansion Board
+      Heaters: 3 (up to 8 with DueX5 expansion Board)
+      Endstops: 5 (12 with DueX5 Expansion Board)
+      Temp Sensers: 3 (8 with DueX5 expansion Board) Also up to 8 Digital PT100/Thermocouple inputs on Daughterboards
+      Ethernet: Yes
+      Wifi: No
+      CPU: 32-bit ARM SAM4E8E With Hardware Floating Point
+      CPU SPeed (MHZ): 120
+      Stepper Driver: Trinamic TMC2660 Stepper drivers, up to 2.8A, up to x256 microstepping digital current control
+      ISP: USB, SD Card, Web
+      Link: https://www.duet3d.com/DuetEthernet
+      Price: $169.99
+      
+ - Duex5 expansion Board
+      link: https://www.duet3d.com/Duex5
+      Price: $104.15
